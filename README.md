@@ -1,3 +1,8 @@
+# Correction:
+
+Some libraries were conflicting. The libraries are frozen individually.
+RAG example file updated on my example csv file.
+
 # Introduction to Retrieval Augmented Generation
 
 This repository will introduce you to Retrieval Augmented Generation (RAG) with
